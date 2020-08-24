@@ -1,0 +1,2 @@
+# cat=Address DB Connection; type=string; label=Connectionstring: used for importing Geotest Address
+connectionString =

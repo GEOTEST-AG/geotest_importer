@@ -1,0 +1,23 @@
+{
+	"name": "geotest/geotest_importer",
+	"type": "typo3-cms-extension",
+	"description": "Import GEOTEST Adressen",
+	"license": [
+		"GPL-2.0-or-later"
+	],
+	"authors": [
+		{
+			"name": "Chrostoph Suter",
+			"role": "Developer"
+		}
+	],
+	
+	"version": "1.0.0",
+	"require": {
+		"typo3/cms-core": ">=9.5.0,<11.0",
+		"cobweb/external_import": ">=4.3.0",
+		"cobweb/svconnector_csv": ">=2.3.0",
+		"cobweb/svconnector_sql": ">=2.3.0",
+		"friendsoftypo3/tt-address": ">=5.1.0"
+	}
+}
